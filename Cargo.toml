@@ -1,0 +1,13 @@
+[package]
+name = "Luvita"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+gtk4 = "0.9.6"
+glib = "0.20.10"
+gio = "0.20.11"
+libadwaita = "0.7.2"
+pangocairo = "=0.20.10"
+pango = "0.20.10"
+cairo-rs = "=0.20.10"
